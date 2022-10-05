@@ -1,0 +1,123 @@
+[
+    {
+      "id": 0,
+      "img": "/assets/imgs/template/assist_product.jpg",
+      "title":"Assistive Products for Personal Care and Safety",
+      "body": "We help to transform the lives of the disabled by ensuring that they have access to the right support, advice, and products. We provide a wide range of assistive products to ensure that our clients have everything that they need to live as independently as possible. The provision of products is designed to maximize an individual's care and personal safety, such as beds and pressure mattresses, bathroom equipment, continence needs, and specialized clothing.",
+      "image": "/assets/imgs/template/assist_daily.jpg"
+      
+     
+    },
+    {
+        "id": 1,
+        "img": "/assets/imgs/template/card4.jpg",
+        "title":"Personal Mobility Equipments",
+        "body": "Our mobility aid devices are designed to help people having problems with moving around and enjoy greater freedom and independence. We provide a range of products to help people with physical disabilities and impairments to improve their quality of life. Provision of products that enable people&#39;s physical mobility, such as wheelchairs, transfer aids, and walking equipment. We provide solutions to assist in everyday activities such as going grocery shopping or attending school. We always strive to keep our equipment up to date and we keep looking for ways to improve our range of products and services- so you can always find what you need from us. Zaer is dedicated to making life better. Our mission is to help people live their lives without any limitations or restrictions.",
+        "image": "/assets/imgs/template/personal_mobility2.jpg"
+       
+      },
+      {
+        "id": 2,
+        "img": "/assets/imgs/template/assistant_life_stage.jpg",
+        "title":"Assistance with Life Stage Transitions and Support ",
+        "body": "When life isn't going as planned, Zaer is here to help you find the strength to take your next steps. Here, our services include mentoring, peer support, individual skill development, and decision-making in order to enable the clients to make transitions on their own terms and in a way that meets their goals and aspirations. Zaer support services programs follow an evidence-based approach that helps clients to pass through the challenging life stage transitions.",
+        "image": "/assets/imgs/template/life_stage2.jpg"
+      },
+      {
+        "id": 3,
+        "img":"/assets/imgs/template/community_partcipate.jpg",
+        "title":"Assistance with Daily Personal Activities",
+        "body":"Zaer support services provides personal assistance to our clients with disabilities to lead independent and fulfilling lives . Our services are designed to enable our clients to live as autonomously as possible – such as personal hygiene, dressing, medication assistance, financial management, communication skills and lifestyle mentoring. We believe in a world where a disability doesn't define the quality of your life. Zaer is committed to helping your loved ones live their lives to their fullest potential by providing personal assistance that helps them with daily activities.",
+        "image": "/assets/imgs/template/assist_personal_care2.jpg"
+      },
+      {
+        "id": 4,
+        "img":"/assets/imgs/template/assistant_travel.jpg",
+        "title":"Assistance with Travel and Transport ",
+        "body":"Get on the road with Zaer. We provide travel arrangements and support for our clients to access essential services. Zaer support services working to create a more inclusive society. We do this by helping people with disability use public and private transport. The Assist Travel and Transport program can help you get to appointments, events, and other important activities. You can also use the service for medical appointments, education, and employment. Browse our website or chat with one of our staff members to find out how we can assist in your transportation needs.",
+        "image": "/assets/imgs/template/assist_travel2.jpg"
+      },
+      {
+        "id": 5,
+        "img":"/assets/imgs/template/card7.jpg",
+        "title":"Assistive Equipment for Recreation",
+        "body":"We believe that everyone should be given the opportunity to pursue their recreational passions without being hindered by accessibility issues. With a focus on helping those with disabilities enjoy the same experiences as anyone else, we&#39;ve created the Zaer experience to remind us that disability is only physical. We provide products that assist our clients when engaging in recreational pursuits (e.g., sport, exercise/fitness).",
+        "image": "/assets/imgs/template/assist_recreation2.jpg"
+      },
+      {
+        "id": 6,
+        "img":"/assets/imgs/template/vision_equipment.jpg",
+        "title":"Vision Equipment ",
+        "body":"People with vision issues may need help with anything from checking expiry dates, distinguishing colors, reading instructions, or navigating new surroundings. We provide a wide range of products to assist people to navigate and maintain physical orientation, such as magnifiers, note-taking equipment, braille, and guide dogs. Professional instructors from Zaer will provide the skills necessary for clients with visual impairments to travel safely and with confidence in almost any environment.",
+        "image": "/assets/imgs/template/vision2.jpg"
+      },
+      {
+        "id": 7,
+        "img":"/assets/imgs/template/daily_shared.jpg",
+        "title":"Assistance with Daily Tasks in a Group or Shared Living",
+        "body":"This involves temporary or continuous assistance with and/or supervision of daily living chores in shared living surroundings, with a goal of building each individual’s ability to live as independently as possible. Tasks including Bathing, grooming, and oral hygiene, even meal preparation and feeding are assisted. Our supportive help would include many elements of your daily life and promote your independence in a person-centered approach, regardless of whether you live in group homes, independent, or shared living arrangements. Every client has their own unique needs, which is why we offer a personalized service for each individual we work with.",
+        "image": "/assets/imgs/template/assist_daily_task2.jpg"
+      },
+      {
+        "id": 8,
+        "img":"/assets/imgs/template/innovative_community.jpg",
+        "title":"Innovative Community Participation",
+        "body":"With Innovative Community Participation Programs, you can help people with a disability develop their skills and confidence and help to increase their communication with other members of society. Community-based organizations are an important resource for people with disabilities. These organizations provide a safe space for people with disabilities to socialize, learn skills, and participate in activities. They are also a great opportunity for people with disabilities to build confidence and gain new skills. Community-based organizations provide a supportive environment where people can interact with others who have similar experiences",
+        "image": "/assets/imgs/template/innovative_community2.jpg"
+      },
+      {
+        "id": 9,
+        "img":"/assets/imgs/template/daily_personal.jpg",
+        "title":"Development of Daily Living and Life Skills",
+        "body":"Here we provide developmental-focused activities and training to enhance the person’s ability to live as independent an everyday life as possible. Our team of specialists provides you with support in the day-to-day aspects of living with a disability. A wide range of programs is designed under this category which includes money handling, personal hygiene, household assignments, using public transportation, etc. The programs are designed to equip the participant to cope with complex situations and daily challenges.",
+        "image":"/assets/imgs/template/development_daily2.jpg"
+      },
+      {
+        "id": 10,
+        "img":"/assets/imgs/template/assist_household.jpg",
+        "title":"Assistance with Household Tasks",
+        "body":"Zaer is here to make life a little easier. We are the leading provider of disability support in your community, offering services such as meal preparation and delivery, house or yard maintenance, and laundry and cleaning services. The Best Helpers in your Community.",
+        "image": "/assets/imgs/template/household_taks2.jpg"
+      },
+      {
+        "id": 11,
+        "img":"/assets/imgs/template/hearing_equipment2.jpg",
+        "title":"Hearing Equipment",
+        "body":"If you or any of your beloved ones is having a disability with hearing impairments, we are here to help you improve your situation. Hearing devices can be used to overcome the effects of background noise, poor room acoustics, or a far distance from the speaker. And for people who are hard of hearing, an assisted listening device may be used. We provide listening devices(excluding hearing aids)",
+        "image": "/assets/imgs/template/hearing2.jpg"
+      },
+      {
+        "id": 12,
+        "img":"/assets/imgs/template/card5.jpg",
+        "title":"Assistive Products for Household Tasks",
+        "body":"Zaer is here to make life a little easier. We are the leading provider of disability support in your community, offering services such as meal preparation and delivery, house or yard maintenance, and laundry and cleaning services. The Best Helpers in your Community. Our services include the provision of products that assist people with domestic tasks in the home, such as cooking, cleaning, washing, and general maintenance.",
+        "image": "/assets/imgs/template/household_products_task2.jpg"
+      },
+      {
+        "id": 13,
+        "img":"/assets/imgs/template/card2.jpg",
+        "title":"Communication and Information Equipment ",
+        "body":"A disability is not a limitation, Zaer is here to empower you. We believe that people with disabilities are entitled to the same opportunities as those without disabilities. That's why we work hard to provide accessible solutions through providing provision of products to assist people in accessing written or spoken communication through electronic means, as well as to access alternative forms of communication.",
+        "image": "/assets/imgs/template/communication2.jpg"
+      },
+      {
+        "id": 14,
+        "img":"/assets/imgs/template/participation_community.jpg",
+        "title":"Participation in the Community",
+        "body":"Including supported shopping, medical appointments, sporting and recreational events, social activities, visiting or making new friends, travel and transport and building confidence and social skills. Zaer support services committed to provide to support for people with disabilities who are looking for an advocate, someone to talk to, or just need a friend. You can also use our services to find others who share your interests.",
+        "image": "/assets/imgs/template/participation_community2.jpg"
+      },
+      {
+        "id": 15,
+        "img":"/assets/imgs/template/group_based.jpg",
+        "title":"Group and Centre-based Activities",
+        "body":"Zaer is committed to the betterment of the disabled. We work with individuals and organizations that have a shared goal of improving the quality of life for disabled individuals. We provide social outings and group and social activities on Zaer Support Services’ premises. We offer collaboration programs that advance social consideration exercises that help the members in carrying on with a blissful and free existence.",
+        "image": "/assets/imgs/template/group_activity2.jpg"
+      }
+      
+      
+      
+      
+      
+      
+]
